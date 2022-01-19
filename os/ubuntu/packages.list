@@ -1,0 +1,11 @@
+acpica-tools
+alsa-utils
+ffmpeg
+flashrom
+linux-tools-generic
+lm-sensors
+mesa-utils
+nvidia-driver-495
+openssh-server
+stress-ng
+tpm2-tools

@@ -1,0 +1,4 @@
+DEBIAN_FRONTEND=noninteractive
+INSTALL="apt --yes install"
+SYNC="apt --yes update"
+UPGRADE="apt --yes upgrade"
